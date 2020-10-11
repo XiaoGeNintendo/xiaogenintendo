@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Game Review Repo](https://xiaogenintendo.github.io/xgn-homepage-test/)
+
 <!--
 **XiaoGeNintendo/xiaogenintendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
