@@ -7,3 +7,5 @@ My name is XGN from China!
 [Personal Blog](https://xiaogenintendo.github.io/)
 
 [Mail](mailto:gwq0419@163.com)
+
+[Itch](https://xgn.itch.io/)
