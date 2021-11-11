@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is XGN from China!
+My name is XGN. I am from China!
 
 [Game Review Repo](https://xiaogenintendo.github.io/xgn-homepage-test/)
 
